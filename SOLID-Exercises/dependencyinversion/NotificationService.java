@@ -1,4 +1,4 @@
-package dependancyinversion;
+package dependencyinversion;
 
 public class NotificationService {
     private MessageSender messageSender;

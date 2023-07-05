@@ -1,4 +1,4 @@
-package dependancyinversion;
+package dependencyinversion;
 
 public class SmsSender implements MessageSender {
     @Override
