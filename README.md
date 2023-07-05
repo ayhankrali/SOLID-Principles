@@ -1,8 +1,8 @@
-1. Introduction
-2. 
+ Introduction
+   
 SOLID is a set of five design principles that aim to make software systems more maintainable, flexible, and scalable. Each principle focuses on a different aspect of software design and promotes good coding practices. This documentation will provide an overview of each SOLID principle and demonstrate their implementation in Java.
 
-3. Single Responsibility Principle (SRP)
+Single Responsibility Principle (SRP)
    
 Definition
 
@@ -20,7 +20,7 @@ Example
 
 We will explore a simple example where the SRP is applied to separate responsibilities into different classes.
 
-3. Open-Closed Principle (OCP)
+ Open-Closed Principle (OCP)
 
 Definition
 
@@ -38,7 +38,7 @@ Example
 
 We will provide an example showcasing the implementation of the OCP in Java, where new functionality is added without modifying the existing code.
 
-4. Liskov Substitution Principle (LSP)
+Liskov Substitution Principle (LSP)
 
 Definition
 
@@ -56,7 +56,7 @@ Example
 
 We will demonstrate how to adhere to the LSP in Java, ensuring that subclasses can be used interchangeably with their base class.
 
-5. Interface Segregation Principle (ISP)
+Interface Segregation Principle (ISP)
 
 Definition
 
