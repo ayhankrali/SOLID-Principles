@@ -16,11 +16,8 @@ Easier maintenance and debugging
 
 Better testability and reusability
 
-Example
 
-We will explore a simple example where the SRP is applied to separate responsibilities into different classes.
-
- Open-Closed Principle (OCP)
+Open-Closed Principle (OCP)
 
 Definition
 
@@ -34,9 +31,6 @@ Reduces the risk of introducing bugs in the existing codebase
 
 Encourages modular and reusable code
 
-Example
-
-We will provide an example showcasing the implementation of the OCP in Java, where new functionality is added without modifying the existing code.
 
 Liskov Substitution Principle (LSP)
 
@@ -52,9 +46,7 @@ Allows for polymorphic behavior and easier maintenance
 
 Prevents unexpected behavior when working with inheritance
 
-Example
 
-We will demonstrate how to adhere to the LSP in Java, ensuring that subclasses can be used interchangeably with their base class.
 
 Interface Segregation Principle (ISP)
 
@@ -66,5 +58,4 @@ Benefits
 Prevents code bloat and interface pollution
 Improves code maintainability and readability
 Enables clients to depend only on the interfaces they need
-Example
-We will provide an example where the ISP is applied to separate large interfaces into smaller, more cohesive ones.
+
