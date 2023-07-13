@@ -1,4 +1,4 @@
-Introduction
+INTRODUCTION
    
 SOLID is a set of five design principles that aim to make software systems more maintainable, flexible, and scalable. Each principle focuses on a different aspect of software design and promotes good coding practices. This documentation will provide an overview of each SOLID principle and demonstrate their implementation in Java.
 
